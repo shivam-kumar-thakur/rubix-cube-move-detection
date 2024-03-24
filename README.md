@@ -51,6 +51,3 @@ Currently, the Rubik's Cube face detection and hand gesture recognition function
 - Track hand movements and gestures using the hand gesture recognition module.
 - Analyze the intersection of hand positions and Rubik's Cube faces to determine cube rotations.
 - Output the detected cube rotations in real-time.
-
-Stay tuned for updates as we progress with the development and integration of these functionalities.
-
